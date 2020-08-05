@@ -1,3 +1,4 @@
+![](https://github.com/pcl-ai-public/AAH/blob/master/logo.png)
 
 | 该文档是鹏城实验室AAH团队的benchmark说明文档 |
 | :-------------: |
